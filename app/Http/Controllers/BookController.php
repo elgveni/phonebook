@@ -15,7 +15,7 @@ class BookController extends Controller
      */
     public function add_user_form()
     {
-        return view('add-user-form');
+        return view('add-user-form'); 
     }
 
     /**
